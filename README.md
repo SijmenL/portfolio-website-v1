@@ -1,1 +1,3 @@
-# portfolio-website-v1
+# Potfolio Website
+
+Versie 1 van de eerste poging tot HTML & CSS
